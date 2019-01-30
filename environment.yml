@@ -10,3 +10,7 @@ dependencies:
     - pandas
     - nbpresent
     - jupyter_contrib_nbextensions
+    - traitlets>=4.3.1
+    - ipython
+    - vdom
+    - jupyterlab_launcher>=0.5.0
